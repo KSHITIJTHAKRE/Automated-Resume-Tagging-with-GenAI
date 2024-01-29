@@ -192,3 +192,4 @@ Here's a high-level overview of our system architecture, illustrating the interc
 
 [visualstudio.com]:https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [visualstudio-url]: https://code.visualstudio.com/
+# Automated-Resume-Tagging-with-GenAI
